@@ -2,11 +2,11 @@
 # NUluminate Student Wellness Check-In System
 
 ## Name:
-• Cardeno, Faye 
+• Cardeno, Faye L.
 
 • Jagunap, Janelle 
 
-• Nono, Mary Angeline B
+• Nono, Mary Angeline B.
 
 ______________________________________
 
@@ -66,12 +66,12 @@ ______________________________________
 
 ## Use Cases:
 
-*Q1: Do you need registration?*
+## Q1: Do you need registration?*
 
 *A1:* ✔ Yes
 Only NU students and staff can register. Requires NU school email (e.g. @nu-laguna.edu) to ensure only trusted users can access the system.
 
-*Q2: Do you save user data?*
+## Q2: Do you save user data?*
 
 *A2:* ✔ Yes
 We store necessary data for monitoring and support purposes:
