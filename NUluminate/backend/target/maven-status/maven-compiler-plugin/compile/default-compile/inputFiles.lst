@@ -1,0 +1,17 @@
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\service\impl\AuthServiceImpl.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\controller\CheckInController.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\entity\User.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\service\impl\CheckInServiceImpl.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\service\CheckInService.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\validator\NUEmailValidator.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\repository\WellnessCheckInRepository.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\service\AuthService.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\config\SecurityConfig.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\entity\WellnessCheckIn.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\validator\EmailValidator.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\NuluminateApplication.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\dto\CheckInRequestDTO.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\repository\UserRepository.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\dto\ApiResponseDTO.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\dto\LoginRequestDTO.java
+C:\powerpuff-clone\PowerPuffGirls\backend\src\main\java\com\nuluminate\nuluminate\controller\AuthController.java

@@ -2,9 +2,12 @@
 Student Wellness Check-In System
 
 ## Team Members
-- (your names here)
+- Cardeño, Faye L.
+- Jagunap, Janelle
+- Nono, Mary Angeline B.
 
 ## Tech Stack
-- Frontend: React + TypeScript + Vite + TailwindCSS
-- Backend: Spring Boot + Java
-- Database: H2 In-Memory
+- **Frontend:** React + TypeScript + Vite + TailwindCSS
+- **Backend:** Spring Boot + Java
+- **Database:** PostgreSQL 
+- **Build Tools:** Maven, npm/Vite
