@@ -1,5 +1,5 @@
 
-# NUluminate Student Wellness Check-In System
+# NULluminate Student Wellness Check-In System
 
 ## Name:
 • Cardeno, Faye L.
