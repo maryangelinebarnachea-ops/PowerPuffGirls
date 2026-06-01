@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class NUEmailValidator implements EmailValidator {
 
-    private static final String ALLOWED_DOMAIN = "@nu-laguna.edu.ph";
+    private static final String ALLOWED_DOMAIN = "@student.nu-laguna.edu.ph";
 
     @Override
     public boolean isValid(String email) {

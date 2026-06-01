@@ -1,3 +1,4 @@
+com\nuluminate\nuluminate\entity\BaseEntity.class
 com\nuluminate\nuluminate\repository\UserRepository.class
 com\nuluminate\nuluminate\validator\NUEmailValidator.class
 com\nuluminate\nuluminate\entity\WellnessCheckIn$Mood.class
