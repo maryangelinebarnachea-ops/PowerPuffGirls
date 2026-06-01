@@ -8,7 +8,7 @@ import org.springframework.validation.annotation.Validated;
 import jakarta.validation.Valid;
 import java.util.List;
 @RestController
-@CrossOrigin(origins = "http://localhost:5175")
+@CrossOrigin(origins = "http://localhost:5173")
 public class CheckInController {
     private final CheckInService checkInService;
     public CheckInController(CheckInService checkInService) {
